@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "hortfrutangular"
+    }
+  },
+  "defaultProject": "hortfrutangular",
+  "cli": {
+    "analytics": false
+  }
 }
